@@ -125,6 +125,16 @@ The application predicts:
 
 ## 📸 Screenshots
 
+### 🏠 Dashboard
+
+![Dashboard](assets/screenshots/Dashboard.png)
+
+---
+
+### 📊 Prediction Results
+
+![Prediction Results](assets/screenshots/Prediction_Results.png)
+
 You can add screenshots such as:
 
 * 🏠 Home Dashboard
