@@ -135,12 +135,7 @@ The application predicts:
 
 ![Prediction Results](assets/screenshots/Prediction_Results.png)
 
-You can add screenshots such as:
 
-* 🏠 Home Dashboard
-* 📊 Prediction Results
-* 📈 Probability Charts
-* 🔥 Score Heatmap
 
 ---
 
