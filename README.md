@@ -46,8 +46,8 @@ Together, these models estimate realistic football match outcomes based on team 
 ```text
 AI-Football-Predictor/
 │
-├── app.py                  # Streamlit application
-├── predict.py              # Prediction entry point
+├── app.py                 
+├── predict.py             
 ├── requirements.txt
 ├── README.md
 │
